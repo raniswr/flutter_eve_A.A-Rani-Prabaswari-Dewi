@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097149672224",
+    "project_id": "social-media-login-27446",
+    "storage_bucket": "social-media-login-27446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097149672224:android:89f0b7cc8baf0346dd8545",
+        "android_client_info": {
+          "package_name": "com.rani.auth_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097149672224-uil1o274iiqfoutt9f0h65spoak21nok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rani.auth_test_app",
+            "certificate_hash": "fd8300d60673c1d46ffa5fdc90d48748ea0f79fd"
+          }
+        },
+        {
+          "client_id": "1097149672224-k30g594fobf42bml9r1k3n34o3hi410e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLuKtGxDa54dD6t4SgH5iGXEwmQWi_NGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097149672224-k30g594fobf42bml9r1k3n34o3hi410e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
